@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I’m János Tánczos 👋  
 
-<!--
-**LetsUpdate/LetsUpdate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering BSc student (Big Data specialization) at Óbuda University, Budapest  
+🌍 Erasmus+ exchange student at Universidad de Almería, Spain  
+💻 Passionate about full-stack development, scalable systems, and machine learning  
+🚀 Always looking for opportunities to turn ideas into working solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies  
+- **Programming Languages:** Python, C, C++, C#, Java, Dart, JavaScript  
+- **Frameworks & Tools:** Spring Boot, Flutter, ASP.NET Core, Unity, TensorFlow, OpenCV, WPF  
+- **Databases:** SQL, Firebase  
+- **Other:** Docker, REST API design, multi-layered architectures  
+
+---
+
+## 📂 Featured Projects  
+
+- **[Captcha Solver for Neptun](https://github.com/LetsUpdate/CSN)**  
+  Automated CAPTCHA-solving system using TensorFlow, Python backend, and Docker.  
+  *Tech:* Python, TensorFlow, Flask, OpenCV, Docker  
+
+- **[Crafty Go](https://github.com/LetsUpdate/Crafty_Go)**  
+  Flutter/Dart mobile app with API for Minecraft server control.  
+  *Tech:* Flutter, Dart, Firebase, REST API  
+
+- **[Memory Game](https://github.com/LetsUpdate/MemoryGame)**  
+  Simple memory game built with Flutter.  
+  *Tech:* Flutter, Dart, Android  
+
+- **[Snake](https://github.com/LetsUpdate/Snake)**  
+  Classic Snake game in C using linked lists and SDL2 graphics.  
+  *Tech:* C, SDL2, CMake  
+
+- **[GWVACB_HFT_2023241](https://github.com/LetsUpdate/GWVACB_HFT_2023241)**  
+  Full-stack application with ASP Core REST API, WPF and console clients, complex data management, and testing.  
+  *Tech:* C#, ASP.NET Core, REST API, SQL, OOP  
+
+---
+
+## 🏆 Achievements  
+- **Pendroid Competition:** Consistently placed on the podium, including **2× first place** with Unity 3D projects.  
+
+---
+
+## 🌱 Currently Learning  
+- Cloud technologies ☁️  
+- Data processing pipelines 📊  
+- Advanced software architectures 🏗️  
+
+---
+
+## 📫 Get in Touch  
+📍 Budapest, Hungary  
