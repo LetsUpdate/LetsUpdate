@@ -17,7 +17,7 @@
 
 ## 📂 Featured Projects  
 
-- **[Captcha Solver for Neptun](https://github.com/LetsUpdate/CSN)**  
+- **[GPTLabs](https://github.com/LetsUpdate/GPTLabs)**  
   Automated CAPTCHA-solving system using TensorFlow, Python backend, and Docker.  
   *Tech:* Python, TensorFlow, Flask, OpenCV, Docker  
 
