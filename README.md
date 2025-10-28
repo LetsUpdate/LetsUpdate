@@ -1,4 +1,4 @@
-# Hi, I’m János Tánczos 👋  
+# Hi, I’m RED 👋  
 
 🎓 Computer Engineering BSc student (Big Data specialization) at Óbuda University, Budapest  
 🌍 Erasmus+ exchange student at Universidad de Almería, Spain  
